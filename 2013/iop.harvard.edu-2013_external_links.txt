@@ -1,0 +1,10 @@
+mailto://info@archive.org
+http://archive-it.org/
+https://archive-it.org/public/partner.html
+http://archive.org
+https://twitter.com/search
+https://archive-it.org/organizations/org-935
+https://archive-it.org/
+https://web.archive.org/web/*/https://twitter.com/search
+javascript://return false;
+https://archive-it.org

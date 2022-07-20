@@ -1,0 +1,9 @@
+mailto://info@archive.org
+https://archive-it.org
+http://archive.org
+https://archive-it.org/public/partner.html
+http://archive-it.org/
+https://www.facebook.com/HarvardIOP
+https://archive-it.org/organizations/org-935
+https://web.archive.org/web/*/https://www.facebook.com/HarvardIOP
+https://archive-it.org/

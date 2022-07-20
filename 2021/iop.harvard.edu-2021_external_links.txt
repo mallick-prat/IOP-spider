@@ -1,0 +1,9 @@
+https://archive-it.org/public/partner.html
+http://archive.org
+https://archive-it.org
+https://archive-it.org/organizations/org-935
+https://www.youtube.com/harvardiop
+https://archive-it.org/
+https://web.archive.org/web/*/https://www.youtube.com/harvardiop
+mailto://info@archive.org
+http://archive-it.org/

@@ -1,0 +1,8 @@
+http://www.iop.harvard.edu/
+https://web.archive.org/web/*/http://www.iop.harvard.edu/
+http://archive-it.org/
+https://archive-it.org/
+https://archive-it.org/organizations/org-935
+mailto://info@archive.org
+http://archive.org
+https://archive-it.org/public/partner.html

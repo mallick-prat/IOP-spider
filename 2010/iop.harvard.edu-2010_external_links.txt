@@ -1,0 +1,8 @@
+http://archive.org
+https://archive-it.org/public/partner.html
+https://archive-it.org/organizations/org-935
+https://archive-it.org/
+https://web.archive.org/web/*/http://www.iop.harvard.edu/extension/forms/research_political_personality_test.php
+http://archive-it.org/
+mailto://info@archive.org
+http://www.iop.harvard.edu/extension/forms/research_political_personality_test.php
